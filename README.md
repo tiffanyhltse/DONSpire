@@ -20,8 +20,12 @@ The Written Specifications report covers:
 
 ## Visual Design Specifications 
 *Please note the following TinkerCAD links for complete file access have expired and are being fixed. Please check out the attached images of our design.*
-[Aesthetic Design](https://www.tinkercad.com/things/gxvINzu7teX-final-design-plane/edit?sharecode=FPQT1aCN
+
+* [Aesthetic Design](https://www.tinkercad.com/things/gxvINzu7teX-final-design-plane/edit?sharecode=FPQT1aCN
 LsGub5n79X3K8Om_Fo6bsbXYaJ2MwpLDBpQ)
 
-[Design with components placed accordingly inside the plane](https://www.tinkercad.com/things/lax79MUlq0P-final-plane-components/edit?sharecode=UWH
+* [Design with components placed accordingly inside the plane](https://www.tinkercad.com/things/lax79MUlq0P-final-plane-components/edit?sharecode=UWH
 UgCO6tmqKIWMNs9NuqANvJCGK30_WIGHaQejccAk)
+
+### Performance in Class Flight Simulator Competition
+[Flying Dons Challenge Performance.pdf](https://github.com/tiffanyhltse/DONSpire/files/7231343/Flying.Dons.Challenge.Performance.pdf)
