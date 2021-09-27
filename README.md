@@ -19,9 +19,8 @@ The Written Specifications report covers:
 [Design Specifications.pdf](https://github.com/tiffanyhltse/DONSpire/files/7231199/Design.Specifications.pdf)
 
 ## Visual Design Specifications 
-*Please note the following TinkerCAD links for complete file access have expired and are being fixed.*
 
-* [Aesthetic Design](https://www.tinkercad.com/things/5lAz7jkOP2w)
+* [Aesthetic Design with plane components](https://www.tinkercad.com/things/5lAz7jkOP2w)
 
 ## Performance in Class Flight Simulator Competition
 [Flying Dons Challenge Performance.pdf](https://github.com/tiffanyhltse/DONSpire/files/7231343/Flying.Dons.Challenge.Performance.pdf)
