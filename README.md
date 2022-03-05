@@ -14,7 +14,7 @@ The Written Specifications report covers:
     *  battery capacity (mAh)
     *  propeller pitch x diameter (in.)
  *  various tradeoffs confronted when making the above decisions
- *  expected performance in each competition category: (1) *speed*, (2) *payload capacity*, (3) *endurance*, (4) *aerobatics*, (5) *stability*
+ *  expected performance in each competition category: (1) *speed*, (2) *payload capacity*, (3) *endurance*, (4) *stability*, (5) *aesthetic design*
 
 [Design Specifications.pdf](https://github.com/tiffanyhltse/DONSpire/files/7231199/Design.Specifications.pdf)
 
